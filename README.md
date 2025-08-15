@@ -88,6 +88,6 @@ I built this as a lightweight, front-end-only solution for healthcare providers 
 
 📫 Contact
 For feedback, collaboration, or deployment help:
-📧 evcare@example.com
+📧 anr.ron193@gmail.com
 
 If interested, keep following for more
