@@ -27,23 +27,38 @@ A simple, responsive healthcare website built with HTML, CSS, JavaScript, and Bo
 
 ## 📁 Folder Structure
 evergreen-healthcare/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── main.js
-├── img/
-│   ├── about.jpg
-│   ├── home.jpg
-│   ├── logo2.png
-│   └── doctors/
-│       ├── 1.png
-│       ├── 2.png
-│       ├── 3.jpg
-│       └── 4.jpg
-├── vendor/
-└── README.md
 
+├── index.html
+
+├── css/
+
+│   └── style.css
+
+├── js/
+
+│   └── main.js
+
+├── img/
+
+│   ├── about.jpg
+
+│   ├── home.jpg
+
+│   ├── logo2.png
+
+│   └── doctors/
+
+│       ├── 1.png
+
+│       ├── 2.png
+
+│       ├── 3.jpg
+
+│       └── 4.jpg
+
+├── vendor/
+
+└── README.md
 
 ---
 
@@ -75,4 +90,4 @@ I built this as a lightweight, front-end-only solution for healthcare providers 
 For feedback, collaboration, or deployment help:
 📧 evcare@example.com
 
-If interested keep followig for more
+If interested, keep following for more
