@@ -52,8 +52,12 @@ evergreen-healthcare/
 To run the site locally:
 
 '''bash'''
+
 git clone https://github.com/Aaron-193/Evergreen-HospitalCss-Website.git
+
+
 cd Evergreen-HospitalCss-Website
+
 
 Then open index.html in your browser. No build tools or backend required.
 
